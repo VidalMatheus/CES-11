@@ -1,0 +1,4 @@
+NOTA: 8,9 
+A: Incluiu a alocação e a desalocação do vetor auxiliar no tempo do MergeSort; 
+B: Cuidado, o fato do MergeSort alocar memória em um vetor auxiliar não aumenta sua complexidade, só o deixa mais lento; 
+procure estruturar melhor a estética dos seus relatórios e não esqueça de identificá-los;

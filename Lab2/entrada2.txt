@@ -1,0 +1,14 @@
+As 4 primeiras linhas podem conter qualquer texto.
+Tamanho do texto máximo 70.
+Esta eh a linha 3
+=========================================
+Quantidade de matrizes
+6
+
+Dimensoes das matrizes
+30  35 
+35  15
+15  5
+5   10
+10  20
+20  25

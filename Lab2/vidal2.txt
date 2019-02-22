@@ -1,0 +1,11 @@
+PRODUTO EFICIENTE DE UMA CADEIA DE MATRIZES
+INPUT: Cadeia Multiplicavel de Matrizes 
+OUTPUT: Melhor Ordem, visando o Menor Tempo Computacional
+
+Total de multiplicacoes escalares = 15750
+
+Chamadas de funcao: 3
+
+Melhor ordem para realizar o produto:
+
+     1 x  2

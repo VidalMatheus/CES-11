@@ -1,0 +1,51 @@
+Algoritmo: #####-Sort
+
+Tamanho da entrada: 44
+Comparacoes feitas: #######
+Tempo de execucao : #.### segundos
+
+--------------------------------------------------
+Ana Beatriz Costa Cavalcanti
+Andre Bergo de Moraes
+Bernardo Michael Milward Meiners B
+Caio Cesar Rocha Lima
+Caio de Carvalho Silva Freire
+Daniel Rocha Lopes
+Diego Alves Leite
+Dylan Nakandakari Sugimoto
+Eduardo Aidar Martins Caldas
+Eduardo Henrique Ferreira Silva
+Erika Rizzo Aquino
+Fernando dos Santos Silva
+Forrest Gump
+Francisco Vinicius Oliveira Alves
+Gabriel Hora de Sa
+Gabriel Oliveira Martins
+Gabriela Diniz da Silva
+Guilherme Correa de Freitas
+Guilherme Henriques Caetano
+Jefferson Gabriele Collaco
+Joao Lucas Fernandes dos Santos
+Joao Luiz Vieira Maciel Borges
+Joao Marcos Cardoso Ramos da Si
+Joao Paulo Cassemiro Marques
+Joao Smith Vieira Jacome
+Jose Antonio de Faria Neto
+Julio Cesar Ferreira Filho
+Kevin de Lima Alves
+Leticia Beatriz Agra Santos
+Lucas Lupepsa Latyki
+Manoel Mauricio Neves Gumes
+Marcelo Henrique dos Reis Sousa
+Marcio Suguiyama de Abreu
+Mateus Henrique Costa Guia
+Mateus Vasconcellos Siqueira
+Mauricio Bandeira Barros
+Maxwell Nogueira Peixoto
+Murilo Gelly Guarnieri
+Pedro Soares da Costa Mota e Souz
+Rafael de Oliveira Prado
+Rodrigo Aragao Santos
+Thiago Filipe de Medeiros
+Victor Hugo Vianna Silva
+Victor Reboucas Covre
