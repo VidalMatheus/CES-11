@@ -1,0 +1,9 @@
+Exemplo de arquivo de entrada
+Fonte: Fernando Nogueira - UFRRJ
+bla bla
+------------------------------------------------------------
+TAREFA        DESCRICAO            DURACAO  TAREFAS 
+                                   SEMANAS  PRECEDENTES
+------------------------------------------------------------
+  A   Fundacao                        4     .
+------------------------------------------------------------

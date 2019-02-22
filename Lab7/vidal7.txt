@@ -1,0 +1,23 @@
+*FIBRA OTICA*
+Make It Simple But Significant!
+Prim's Algorithm!
+CES-11 - ITA - Prof.: Armando
+--------------------------------------------------
+Ordem de selecao pelo algoritmo
+--------------------------------------------------
+ITA        H8           1
+ITA        INPE         4
+INPE       DS           2
+ITA        COCTA        5
+COCTA      IFI          3
+
+Custo total: 15
+
+--------------------------------------------------
+Ordem crescente de custos
+--------------------------------------------------
+ITA        H8           1
+INPE       DS           2
+COCTA      IFI          3
+ITA        INPE         4
+ITA        COCTA        5

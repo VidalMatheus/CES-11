@@ -1,0 +1,12 @@
+*PERT - Program Evaluation and Review Tecnique*
+Simple But Very Useful!
+ITA - Technological Institute of Aeronautics
+CES-11
+Prof.: Armando
+------------------------------------------------------------
+
+	Ciclo:
+
+Y 
+
+ E impossivel buscar o caminho critico.

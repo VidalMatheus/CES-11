@@ -1,0 +1,19 @@
+*PERT - Program Evaluation and Review Tecnique*
+Simple But Very Useful!
+ITA - Technological Institute of Aeronautics
+CES-11
+Prof.: Armando
+------------------------------------------------------------
+
+UMA ORDENACAO TOPOLOGICA:
+
+
+
+------------------------------------------------------------
+
+CAMINHO CRITICO:
+
+TAREFA        DESCRICAO           DURACAO
+
+                                   ----
+TEMPO MINIMO PARA O PROJETO:          0 semanas

@@ -1,0 +1,20 @@
+Exemplo de arquivo de entrada
+Fonte: Fernando Nogueira - UFRRJ
+bla bla
+------------------------------------------------------------
+TAREFA        DESCRICAO            DURACAO  TAREFAS 
+                                   SEMANAS  PRECEDENTES
+------------------------------------------------------------
+  G   CoisaG                          8     B,E
+  F   CoisaF                          9     D
+  A   CoisaA                          8     .
+  E   CoisaE                         12     C,B
+  L   CoisaL                         15     G,J
+  I   CoisaI                         15     G
+  D   CoisaD                         15     B,A
+  J   CoisaJ                          8     E,G
+  H   CoisaH                         10     E
+  B   CoisaB                         10     .
+  C   CoisaC                          6     .
+  K   CoisaK                         13     I,D
+------------------------------------------------------------

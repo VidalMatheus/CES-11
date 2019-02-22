@@ -1,0 +1,15 @@
+entrada8.0:	caso do tidia
+
+entrada8.1:	ciclo no meio do grafo
+
+entrada8.2:	ciclo em um mesmo vértice
+
+entrada8.3:	exemplo sem ciclo dado em aula
+
+entrada8.4:	grafo com apenas 1 vértice, sendo este vértice sem precedente
+
+entrada8.5:	grafo vazio (linhas pontilhadas uma embaixo da outra)
+
+entrada8.6:	grafo vazio (linhas pontilhadas com uma linha em branco entre)
+
+entrada8.7:	grafo com todos os vértices sem precedentes (grafo desconexo)

@@ -1,0 +1,3 @@
+http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/
+https://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html
+https://sites.google.com/site/itabits/treinamento/aulas-obi/arvore-geradora-minima

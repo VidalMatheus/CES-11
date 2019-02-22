@@ -1,0 +1,18 @@
+1) Vai poder ter um caso de entrada em que todos não tem precedentes?
+
+2) No caso que não há arestas, como colocar no caso de entrada? (a) ou (b)
+a)
+------------------------------------------------------------
+
+------------------------------------------------------------
+b)
+------------------------------------------------------------
+------------------------------------------------------------
+
+OBS.: o meu dá certo para os dois casos
+
+2.1) E nesse caso, como fica o arquivo de saída? Mostro mensagem de grafo vazio? Deixo a formatação de ordenação topológica e caminho crítico de modo que fique condizente com grafo vazio?
+OBS.: Deixei na formatação de quando não tem ciclo
+
+3) Posso ter arestas repetidas? Pode haver repetição de descrições? Meu código considera que não.
+

@@ -1,0 +1,6 @@
+http://www.geeksforgeeks.org/detect-cycle-direct-graph-using-colors/
+https://www.ime.usp.br/~pf/algoritmos_em_grafos/aulas/dag.html
+https://sites.google.com/site/itabits/treinamento/aulas-obi/arvores-e-grafos/algoritmos-de-busca-em-grafos
+https://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html
+
+	

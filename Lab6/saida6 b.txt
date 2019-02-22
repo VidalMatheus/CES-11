@@ -1,0 +1,20 @@
+Exemplo (b) de saida.
+Apenas para dar exemplo de formato.
+Nao foi dada a entrada correspondente  :-)
+Bla
+Ble
+--------------------------------------------------
+RESPOSTAS DAS CONSULTAS
+--------------------------------------------------
+20       Estudar idioma russo
+AVISO    Nao ha tarefas na agenda  :-)
+88       Estudar para olimpiada de computacao
+90       Ensaiar para o show do bixo
+ERRO     Agenda cheia. Impossivel inserir.
+22       Consertar a bicicleta
+99       Consertar o computador
+
+--------------------------------------------------
+FICA PARA O DIA SEGUINTE
+--------------------------------------------------
+Agenda vazia! Nao restam tarefas para o dia seguinte.

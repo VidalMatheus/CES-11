@@ -1,0 +1,15 @@
+Exemplo de arquivo de entrada
+Fonte: Fernando Nogueira - UFRRJ
+bla bla
+------------------------------------------------------------
+TAREFA        DESCRICAO            DURACAO  TAREFAS 
+                                   SEMANAS  PRECEDENTES
+------------------------------------------------------------
+  B   Fundacao                        4     A
+  A   Escavacao                       2     D,Y
+  C   Paredes                        10     B
+  D   Telhado                         6     C
+  E   Outrooo                         6     D
+  X   mongeee                         6     .
+  Y   monkkkk                         6     X
+------------------------------------------------------------

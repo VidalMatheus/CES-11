@@ -1,0 +1,2 @@
+NOTA: 9,7 
+Deu malloc() no ord na função algPrim e esqueceu de dar free();

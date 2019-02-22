@@ -1,0 +1,14 @@
+Exemplo de arquivo de entrada
+Fonte: Fernando Nogueira - UFRRJ
+bla bla
+------------------------------------------------------------
+TAREFA        DESCRICAO            DURACAO  TAREFAS 
+                                   SEMANAS  PRECEDENTES
+------------------------------------------------------------
+  Y   Fundacao                        4     .
+  W   Escavacao                       2     .
+  K   CoisaK                         19     .
+  L   CoisaL                         19     .
+  M   CoisaM                         19     .
+  Z   Paredes                        10     .
+------------------------------------------------------------
