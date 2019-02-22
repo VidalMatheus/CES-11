@@ -1,0 +1,82 @@
+Joseloid International Airport
+Torre de controle: mensagens recebidas
+Bla
+Bla
+=========================================
+MESSAGE           FLIGHT  FROM
+
+INICIO              0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          1234  Amsterdam
+URGENCIA	    1234  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          8086  San Francisco
+pede_pouso          4444  Londres
+URGENCIA	    4444  -
+URGENCIA	    8086  -
+pista_liberada      0000  -
+pede_pouso          0055  Paris
+pede_pouso          1818  Milk Town
+URGENCIA	    1818  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          2552  Tokyo
+pede_pouso          6101  Hong Kong
+pede_pouso          6161  HemorraLand
+URGENCIA            6161  -
+URGENCIA            6101  -
+URGENCIA            2552  -
+URGENCIA            0055  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          8888  Cidade da Bonequinha
+pede_pouso          0000  Metropole do Sono
+URGENCIA	    0000  -
+pede_pouso          9797  Cidade do Cancer
+pede_pouso          1111  B taumtown
+pede_pouso          8181  Indianopolis
+pede_pouso          7371  Dell Son
+pede_pouso          7900  Anolununonu
+pede_pouso          7901  Kashyyyk
+URGENCIA            7371  -
+URGENCIA	    7901  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          5555  City of the Storm
+pede_pouso          1345  Maromba's planet
+URGENCIA            1345  -
+URGENCIA            5555  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          6636  Biribimbin
+pista_liberada      0000  -
+pede_pouso          6655  Quik Bunny's Town
+pede_pouso          0007  Goiannianolopis
+pede_pouso          0051  Bigfoot's village
+URGENCIA            0007  -
+pede_pouso          1010  Cidade da Jo
+URGENCIA            1010  -
+pista_liberada      0000  -
+URGENCIA            6655  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+FIM                 0000  -

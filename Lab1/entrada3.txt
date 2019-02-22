@@ -1,0 +1,29 @@
+ Joseloid International Airport
+Torre de controle: mensagens recebidas
+Bla
+Bla
+=========================================
+MESSAGE           FLIGHT  FROM
+
+INICIO              0000  -
+pista_liberada      0000  -
+pede_pouso          1234  Amsterdam
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          8086  San Francisco
+pede_pouso          4444  Londres
+pede_pouso          0055  Paris
+pede_pouso          2552  Tokyo
+URGENCIA            4444  -
+URGENCIA            0055  -
+URGENCIA            2552  -
+pede_pouso          6161  Hong Kong
+URGENCIA            6161  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+FIM                 0000  -

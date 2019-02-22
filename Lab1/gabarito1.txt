@@ -1,0 +1,44 @@
+Controle de Voo - Joseloid International Airport
+Houston! Houston...We are good.
+AUTORIZACOES DE POUSO
+=========================================
+FLIGHT  FROM
+
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+1234    Amsterdam
+0000    Nenhum aviao pousando
+4444    Londres
+8086    San Francisco
+1818    Milk Town
+6161    HemorraLand
+6101    Hong Kong
+2552    Tokyo
+0055    Paris
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Metropole do Sono
+7371    Dell Son
+7901    Kashyyyk
+8888    Cidade da Bonequinha
+9797    Cidade do Cancer
+1111    B taumtown
+8181    Indianopolis
+7900    Anolununonu
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+0000    Nenhum aviao pousando
+1345    Maromba's planet
+5555    City of the Storm
+6636    Biribimbin
+0007    Goiannianolopis
+1010    Cidade da Jo
+6655    Quik Bunny's Town
+
+Situacao da fila
+
+0051    Bigfoot's village
