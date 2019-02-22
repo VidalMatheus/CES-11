@@ -1,0 +1,3 @@
+NOTA: 9,0
+Comente melhor o seu código, preciso saber o porque de ter usado cada estrutura;
+siga o modelo de saída no item b, inclusive os espaçamentos
