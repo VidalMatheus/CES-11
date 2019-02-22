@@ -1,6 +1,0 @@
-NOTA: 6,0 
-Não esqueça de dar free() no final (não tirei ponto). 
-Comente melhor o código. 
-Cuidado com o nome dos arquivos. 
-Sugestão: ao invés de percorrer toda a lista para adicionar um elemento, aponte um ponteiro para o final (não tirei ponto). 
-Acertou 16/21 casos teste.
