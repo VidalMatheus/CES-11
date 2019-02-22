@@ -1,0 +1,3 @@
+NOTA: 8,8 
+Falha quando tenta mover um elemento para a mesma posição (não perdeu nota pela estrutura); 
+Esquece de pular linhas em alguns casos, fazendo o texto ficar grudado nos hífens; Falha ao excluir raiz;

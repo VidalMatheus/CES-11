@@ -1,0 +1,4 @@
+NOTA: 8,4 
+TESTES CERTOS: 18/21 
+Exibe mensagem estranha em Correntistas Atuais quando a lista de correntistas está vazia; 
+Problemas com manipulação de lista vazia e com shift na remoção;

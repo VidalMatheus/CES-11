@@ -1,0 +1,19 @@
+Exemplo de arquivo de entrada - Lab Livro.
+bla bla bla
+ble
+-------------------------------------------------------
+TITULO     A
+INSERIR	   D	SUB	A
+INSERIR	   C	SUB	A
+INSERIR	   B	SUB	A
+INSERIR	   E	SUB	B
+INSERIR	   G	SUB	C
+INSERIR	   F	SUB	C
+INSERIR	   H	SUB	D
+INSERIR	   K	SUB	H
+INSERIR	   J	SUB	H
+INSERIR	   I	SUB	H
+INSERIR	   L	SUB	E
+LISTA
+FILHOSUNICOS	A
+FIM

@@ -1,0 +1,17 @@
+JoseLloyds Bank
+Simple and efficient! Here your money is safer.
+Don't worry! You are our priority.
+
+RESULTADOS DAS CONSULTAS
+
+
+RELATORIO FINAL
+
+Tamanho maximo da lista:    50
+Total de correntistas:       0
+Posicoes ocupadas: inicio:   0
+                      fim:  49
+
+CORRENTISTAS ATUAIS
+
+    0.00  P¦    0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00  `    0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00   Lista vazia

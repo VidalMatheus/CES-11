@@ -1,0 +1,15 @@
+JoseLloyds Bank
+Exemplo de entrada para o Lab do Banco.
+Bla bla
+==================================================
+Quantidade maxima de correntistas
+100
+
+INICIO
+ABRE_CONTA            C
+ABRE_CONTA            A
+ABRE_CONTA            B
+DEPOSITO        5.00  A
+EXTRATO               A
+FECHA_CONTA           B
+FIM

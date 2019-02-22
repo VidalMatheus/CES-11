@@ -1,0 +1,24 @@
+JoseLloyds Bank
+Bla bla
+Exemplo de arquivo de saida
+
+RESULTADOS DAS CONSULTAS
+
+Saldo  -388.00  Irmao Metralha
+Saldo  1590.01  Tio Patinhas
+ERRO: Nao encontrado cliente com nome Pateta
+Saldo   111.00  Margarida
+
+RELATORIO FINAL
+
+Tamanho maximo da lista:    50
+Total de correntistas:       4
+Posicoes ocupadas: inicio:  49
+                      fim:   2
+
+CORRENTISTAS ATUAIS
+
+  111.00  Margarida
+   44.77  Mickey
+    0.00  Pateta
+ 7590.01  Tio Patinhas
